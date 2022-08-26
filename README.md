@@ -1,4 +1,4 @@
-Back-end do projeto de tcc da faculdade em desenvolvimento;
+Back-end do projeto em grupo em desenvolvimento;
 
 -faltando algumas funções, correções de codigos e bugs a serem implementados; 
 
